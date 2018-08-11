@@ -7,6 +7,7 @@ h1{
   font-size: 50px;
   font-family: Verdana;
   color: white;
+  font-weight: normal;
 }
 
 h2 {
@@ -31,4 +32,10 @@ a:visited {
     color: aquamarine;
     background-color: none;
     text-decoration: none;
+}
+
+p {
+  text-align: right;
+  color: gray;
+  font-family: Verdana;
 }
